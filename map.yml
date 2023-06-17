@@ -1,0 +1,4 @@
+map_name: NSP_v4
+games:
+- {game_name: NSP v4, file_name: NSP_v4.xml}
+version: 0
